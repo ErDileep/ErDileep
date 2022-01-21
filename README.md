@@ -7,8 +7,10 @@
 - 🌱 I’m currently learning python.
 - 👯 I’m looking to collaborate on python or MATLAB.
 
-- 💬 Ask me about ... Materials, Python
-- 📫 How to reach me: contact.dileep.verma@gmail.com
+- 
 
 -->
 I'm a final year MTech student pursuing Material Science and Engineering from MNNIT Allahabad!!
+💬 Ask me about ... Materials, Python
+
+[Connect On] (https://www.linkedin.com/in/vermadileep/)
